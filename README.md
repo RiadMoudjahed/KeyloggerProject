@@ -33,7 +33,8 @@ The program will:
 3. Monitor and print clipboard contents every 10 seconds
 4. Terminate when ESC key is pressed
 
-𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓 𝐖𝐀𝐑𝐍𝐈𝐍𝐆
+❗ 𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓 𝐖𝐀𝐑𝐍𝐈𝐍𝐆 ❗
+
 **This software is intended for educational purposes only.** 
 
 Using this software to monitor someone without their knowledge or consent may be illegal in your jurisdiction and violates privacy rights. Always:
