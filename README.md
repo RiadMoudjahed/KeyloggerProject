@@ -5,12 +5,14 @@
 This project implements a keylogger with additional monitoring capabilities including automatic screenshot capture and clipboard content monitoring. It's designed as an educational tool to demonstrate how monitoring software works.
 
 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
+
 - Keystroke logging with special key detection (Enter, Backspace, Space)
 - Periodic screenshot capture
 - Clipboard content monitoring
 - Easy termination with ESC key
 
 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓𝐒
+
 - Python 3.6+
 - Required libraries:
   - pynput
@@ -18,11 +20,13 @@ This project implements a keylogger with additional monitoring capabilities incl
   - pyautogui
 
 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐓𝐈𝐎𝐍
+
 ```bash
 pip install pynput pyperclip pyautogui
 ```
 
 𝐔𝐒𝐀𝐆𝐄
+
 To run the keylogger:
 ```bash
 python keylogger.py
@@ -44,6 +48,7 @@ Using this software to monitor someone without their knowledge or consent may be
 - Follow all applicable laws regarding computer monitoring and surveillance
 
 𝐂𝐔𝐒𝐓𝐎𝐌𝐈𝐙𝐀𝐓𝐈𝐎𝐍
+
 You can modify the following parameters in the code:
 - `log_file` - Change the filename where keystrokes are logged
 - Time interval in the main loop - Change how frequently screenshots and clipboard are captured
