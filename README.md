@@ -50,3 +50,5 @@ You can modify the following parameters in the code:
 
 ⚠ 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑
 The author is not responsible for any misuse of this software. This tool should only be used on systems you own or have permission to monitor.
+
+(AI used)
