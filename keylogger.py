@@ -1,5 +1,4 @@
 # Import the necessary libraries.
-from pynput.keyboard import Listener
 import pynput.keyboard
 import pyperclip
 import pyautogui
