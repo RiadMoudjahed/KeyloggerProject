@@ -1,8 +1,6 @@
 ## 𝗞𝗘𝗬𝗟𝗢𝗚𝗚𝗘𝗥 𝗪𝗜𝗧𝗛 𝗦𝗖𝗥𝗘𝗘𝗡𝗦𝗛𝗢𝗧 𝗔𝗡𝗗 𝗖𝗟𝗜𝗣𝗕𝗢𝗔𝗥𝗗 𝗠𝗢𝗡𝗜𝗧𝗢𝗥𝗜𝗡𝗚
 
 
-May Allah accept and reward all beneficial knowledge shared. 🤍
-
 ### 𝐃𝐄𝐒𝐂𝐑𝐈𝐏𝐓𝐈𝐎𝐍
 
 This project implements a keylogger with additional monitoring capabilities including automatic screenshot capture and clipboard content monitoring. It's designed as an educational tool to demonstrate how monitoring software works.
