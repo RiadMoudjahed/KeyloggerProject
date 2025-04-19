@@ -1,3 +1,9 @@
+# This project is intended as a sadaqah jariyah (صدقة جارية)
+# Feel free to use, share, and improve it. May it benefit others.
+
+
+
+
 # Import the necessary libraries.
 from datetime import datetime
 import pynput.keyboard
